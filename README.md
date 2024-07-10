@@ -7,7 +7,7 @@
     </em>
 </p>
 
-[![Linkedin: Shawn Jacobsen](https://img.shields.io/badge/-Shawn_Jacobsen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawn-jacobsen/)](https://www.linkedin.com/in/shawn-jacobsen/)
+[![Linkedin: Shawn Jacobsen](https://img.shields.io/badge/-Shawn_Jacobsen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawnjacobsen/)](https://www.linkedin.com/in/shawnjacobsen/)
 [![GitHub Shawn Jacobsen](https://img.shields.io/github/followers/shawnjacobsen?label=Personal%20Github&style=social)](https://github.com/shanwjacobsen)
 [![GitHub Deloitte Account](https://img.shields.io/github/followers/shawn-jacobsen?label=Deloitte%20Github&style=social)](https://github.com/shawn-jacobsen)
 
