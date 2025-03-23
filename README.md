@@ -13,7 +13,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Working on Cloud Integration and Data Management Platforms for Navy Medicine
+- 💼 &nbsp; Working on Cloud Integration and Data Management Platforms for a large military health command
 - 🌱 &nbsp; Currently learning about Hybrid-Cloud Orchestration and Enterprise Cloud Strategy
 - 📸 &nbsp; Part-time photographer, open-water swimmer, and sushi enjoyer
 
